@@ -11,7 +11,6 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css';
 import './assets/css/reset.css'
 
-
 let options = {
   namespace: '', // key键前缀
   name: 'ls', // 命名Vue变量.[ls]或this.[$ls],

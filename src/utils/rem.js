@@ -9,4 +9,4 @@
 	computedFont();
 	// 监听页面resize事件，尺寸发生改变时重新计算html的字体大小
 	window.addEventListener('resize', computedFont);
-})(1080);
+})(1180);

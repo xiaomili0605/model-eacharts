@@ -57,4 +57,10 @@ html {
   html, body{
     font-family: "Microsoft YaHei", "Arial", "黑体", "宋体", "微软雅黑", sans-serif;
   }
+
+  /* 声明字体 */
+  @font-face {
+    font-family: electronicFont;
+    src: url(../font/DS-DIGIT.TTF)
+  }
   
